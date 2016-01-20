@@ -24,7 +24,6 @@ pickle-email-*.html
 /nbproject
 /sticker_packs
 /stickers
-config/database.yml
 config/unicorn.rb
 public/photos/*
 cookbooks/*
@@ -34,12 +33,5 @@ public/assets
 /$CIRCLE_ARTIFACTS
 .idea
 .eyrc
-config/api-keys.yml
-config/secrets.yml
-config/push_server_redis.yml
-config/sidekiq.yml
-config/mongoid.yml
-config/shards.yml
-config/sidekiq_redis.yml
 .ruby-version
 /photos/*
