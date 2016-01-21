@@ -19,3 +19,4 @@ Run `tail -f log/development.log` to see the server log in json format. Log will
 1. Write a script to stream the log to a BigQuery dataset
 2. You can write the script in any language you want, eg Python, Ruby... Or event use an existing log streaming solution
 3. https://cloud.google.com/bigquery/
+4. Commit your changes frequently (preferrably after every hour)
